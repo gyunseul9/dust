@@ -39,11 +39,3 @@ sudo service cron status
 -------------------
 
 sudo pip3 install awscli
-
-aws configure
-
-gyunseul9
-AKIAZJ6A2X4IKGQLM3PY
-k/3ZTPyHTXvpeES6cQg36dVwWVwYo0FbThSbJZ8C
-https://639817662224.signin.aws.amazon.com/console
-ap-northeast-2
