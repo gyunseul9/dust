@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<response>
+	<header>
+		<resultCode>00</resultCode>
+		<resultMsg>NORMAL SERVICE.</resultMsg>
+	</header>
+	<body>
+		<items>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>거제시</cityName>
+				    <so2Value>0.002</so2Value>
+				    <coValue>0.2</coValue>
+				    <o3Value>0.010</o3Value>
+				    <no2Value>0.030</no2Value>
+				    <pm10Value>27</pm10Value>
+				    <pm25Value>15</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>거창군</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.6</coValue>
+				    <o3Value>0.005</o3Value>
+				    <no2Value>0.029</no2Value>
+				    <pm10Value>45</pm10Value>
+				    <pm25Value>27</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>고성군</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.5</coValue>
+				    <o3Value>0.010</o3Value>
+				    <no2Value>0.034</no2Value>
+				    <pm10Value>35</pm10Value>
+				    <pm25Value>21</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>김해시</cityName>
+				    <so2Value>0.005</so2Value>
+				    <coValue>0.5</coValue>
+				    <o3Value>0.006</o3Value>
+				    <no2Value>0.035</no2Value>
+				    <pm10Value>52</pm10Value>
+				    <pm25Value>27</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>남해군</cityName>
+				    <so2Value>0.004</so2Value>
+				    <coValue>0.4</coValue>
+				    <o3Value>0.023</o3Value>
+				    <no2Value>0.020</no2Value>
+				    <pm10Value>24</pm10Value>
+				    <pm25Value>20</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>밀양시</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.3</coValue>
+				    <o3Value>0.007</o3Value>
+				    <no2Value>0.034</no2Value>
+				    <pm10Value>31</pm10Value>
+				    <pm25Value>23</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>사천시</cityName>
+				    <so2Value>0.007</so2Value>
+				    <coValue>0.4</coValue>
+				    <o3Value>0.006</o3Value>
+				    <no2Value>0.026</no2Value>
+				    <pm10Value>35</pm10Value>
+				    <pm25Value>19</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>산청군</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.5</coValue>
+				    <o3Value>0.004</o3Value>
+				    <no2Value>0.023</no2Value>
+				    <pm10Value>22</pm10Value>
+				    <pm25Value>18</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>양산시</cityName>
+				    <so2Value>0.006</so2Value>
+				    <coValue>0.9</coValue>
+				    <o3Value>0.005</o3Value>
+				    <no2Value>0.040</no2Value>
+				    <pm10Value>51</pm10Value>
+				    <pm25Value>32</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>의령군</cityName>
+				    <so2Value>0.002</so2Value>
+				    <coValue>0.5</coValue>
+				    <o3Value>0.006</o3Value>
+				    <no2Value>0.019</no2Value>
+				    <pm10Value>36</pm10Value>
+				    <pm25Value>30</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>진주시</cityName>
+				    <so2Value>0.004</so2Value>
+				    <coValue>0.5</coValue>
+				    <o3Value>0.013</o3Value>
+				    <no2Value>0.021</no2Value>
+				    <pm10Value>29</pm10Value>
+				    <pm25Value>17</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>창녕군</cityName>
+				    <so2Value>0.004</so2Value>
+				    <coValue>0.5</coValue>
+				    <o3Value>0.009</o3Value>
+				    <no2Value>0.031</no2Value>
+				    <pm10Value>37</pm10Value>
+				    <pm25Value>29</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>창원시</cityName>
+				    <so2Value>0.004</so2Value>
+				    <coValue>0.6</coValue>
+				    <o3Value>0.006</o3Value>
+				    <no2Value>0.039</no2Value>
+				    <pm10Value>36</pm10Value>
+				    <pm25Value>23</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>통영시</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.5</coValue>
+				    <o3Value>0.012</o3Value>
+				    <no2Value>0.038</no2Value>
+				    <pm10Value>27</pm10Value>
+				    <pm25Value>15</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>하동군</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.4</coValue>
+				    <o3Value>0.015</o3Value>
+				    <no2Value>0.016</no2Value>
+				    <pm10Value>31</pm10Value>
+				    <pm25Value>16</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>함안군</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.6</coValue>
+				    <o3Value>0.006</o3Value>
+				    <no2Value>0.031</no2Value>
+				    <pm10Value>54</pm10Value>
+				    <pm25Value>29</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>함양군</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.7</coValue>
+				    <o3Value>0.004</o3Value>
+				    <no2Value>0.029</no2Value>
+				    <pm10Value>40</pm10Value>
+				    <pm25Value>31</pm25Value>
+				</item>
+			
+				<item>
+				    <dataTime>2020-01-17 09:00</dataTime>
+				    <cityName>합천군</cityName>
+				    <so2Value>0.003</so2Value>
+				    <coValue>0.6</coValue>
+				    <o3Value>0.006</o3Value>
+				    <no2Value>0.020</no2Value>
+				    <pm10Value>24</pm10Value>
+				    <pm25Value>17</pm25Value>
+				</item>
+			
+		</items>
+		<numOfRows>18</numOfRows>
+        <pageNo>1</pageNo>
+        <totalCount>18</totalCount>
+	</body>
+</response>
